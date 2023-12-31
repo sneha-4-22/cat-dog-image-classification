@@ -32,10 +32,12 @@ https://github.com/sneha-4-22/cat-dog-image-classification/assets/112711068/3139
 ### Usage
 * Clone the repository:
  ``` bash
-  git clone https://github.com/your-username/cat-dog-image-classification.git
+  git clone https://github.com/sneha-4-22/cat-dog-image-classification.git
 ```
 ``` bash
   cd cat-dog-image-classification
 ```
  enjoy ^_~
  or just go here 
+ https://colab.research.google.com/drive/1kt8ObuJLj9Wncppcwn08psQRgpJO3CgQ?usp=sharing
+ヾ(＠⌒ー⌒＠)ノ
