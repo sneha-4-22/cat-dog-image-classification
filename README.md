@@ -1,6 +1,7 @@
 # Cat and Dog Image Classification
 
-![Cat and Dog](path-to-your-image.jpg)
+![image](https://github.com/sneha-4-22/cat-dog-image-classification/assets/112711068/da25fe5a-1bfc-4d18-9552-276a06e33f67)
+
 
 ## Overview
 
