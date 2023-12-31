@@ -27,6 +27,15 @@ This project implements a machine learning model for classifying images as eithe
 ### Model Performance and Accuracy
 <hr>
 
-
 https://github.com/sneha-4-22/cat-dog-image-classification/assets/112711068/3139b77f-88a0-42cf-a284-eebd8e4605b0
 
+### Usage
+* Clone the repository:
+ ``` bash
+  git clone https://github.com/your-username/cat-dog-image-classification.git
+```
+``` bash
+  cd cat-dog-image-classification
+```
+ enjoy ^_~
+ or just go here 
