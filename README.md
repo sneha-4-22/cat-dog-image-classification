@@ -1,6 +1,8 @@
 # Cat and Dog Image Classification
-
-![image](https://github.com/sneha-4-22/cat-dog-image-classification/assets/112711068/da25fe5a-1bfc-4d18-9552-276a06e33f67)
+<p align="center">
+  <img src="https://github.com/sneha-4-22/cat-dog-image-classification/assets/112711068/da25fe5a-1bfc-4d18-9552-276a06e33f67" alt="Image 1" width="400" style="display:inline-block">
+  <img src="https://github.com/sneha-4-22/cat-dog-image-classification/assets/112711068/f2040ef6-84f1-4f25-9c23-de79ed6682c2" alt="Image 2" width="400" style="display:inline-block">
+</p>
 
 
 ## Overview
