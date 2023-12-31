@@ -37,7 +37,7 @@ https://github.com/sneha-4-22/cat-dog-image-classification/assets/112711068/3139
 ``` bash
   cd cat-dog-image-classification
 ```
- enjoy ^_~
- or just go here 
- https://colab.research.google.com/drive/1kt8ObuJLj9Wncppcwn08psQRgpJO3CgQ?usp=sharing
+ enjoy ^_~ <br/>
+ or just go here <br/>
+ https://colab.research.google.com/drive/1kt8ObuJLj9Wncppcwn08psQRgpJO3CgQ?usp=sharing  <br/><br/>
 ヾ(＠⌒ー⌒＠)ノ
