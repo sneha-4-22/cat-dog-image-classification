@@ -24,3 +24,4 @@ This project implements a machine learning model for classifying images as eithe
 - NumPy
 - Matplotlib
 
+### Model Performance and Accuracy
