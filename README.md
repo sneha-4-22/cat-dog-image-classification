@@ -25,3 +25,8 @@ This project implements a machine learning model for classifying images as eithe
 - Matplotlib
 
 ### Model Performance and Accuracy
+<hr>
+
+
+https://github.com/sneha-4-22/cat-dog-image-classification/assets/112711068/3139b77f-88a0-42cf-a284-eebd8e4605b0
+
